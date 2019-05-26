@@ -1,0 +1,33 @@
+{
+  "name": "hasard",
+  "version": "1.0.0",
+  "description": "Atmospheric noise on-chain RNG",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^6.1.0",
+    "iexec-doracle-base": "^0.0.4",
+    "iexec-poco": "^3.0.35",
+    "iexec-solidity": "0.0.7",
+    "openzeppelin-solidity": "^2.2.0",
+    "openzeppelin-test-helpers": "^0.3.2",
+    "rlc-faucet-contract": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienbrg/hasard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julienbrg/hasard/issues"
+  },
+  "homepage": "https://github.com/julienbrg/hasard#readme"
+}
